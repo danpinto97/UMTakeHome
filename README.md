@@ -10,7 +10,8 @@ Steps to run:
   pip install -r requirements.txt
 2. Install node modules
   npm install
-3. Run server
+3. Run createdb.py
+4. Run server
   python3 application.py
-4. Run client (from client directory)
+5. Run client (from client directory)
   npm start
