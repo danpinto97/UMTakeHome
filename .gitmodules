@@ -1,0 +1,3 @@
+[submodule "UMClient"]
+	path = UMClient
+	url = https://github.com/danpinto97/UMClient.git
