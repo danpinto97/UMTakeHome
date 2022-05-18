@@ -2,9 +2,9 @@
 
 Took ~4 hours to finish
 
-Created utilizing Python3 with Flask for backend and React for frontend
+Created utilizing Python3 with Flask for backend and React for frontend (Running on Ubuntu 20.04)
 
-My node version is v18.0.0 (npm versionb 8.6.0)
+My node version is v18.0.0 (npm version 8.6.0)
 Steps to run:
 1. Install python requirements
   pip install -r requirements.txt
