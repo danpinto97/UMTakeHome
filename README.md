@@ -1,6 +1,6 @@
 # UMTakeHome
 
-Took ~3.5-4 hours to finish
+Took ~4 hours to finish
 
 Created utilizing Python3 with Flask for backend and React for frontend
 
