@@ -6,11 +6,11 @@ Created utilizing Python3 with Flask for backend and React for frontend (Running
 
 My node version is v18.0.0 (npm version 8.6.0)
 Steps to run:
-1. Install python requirements
-  pip install -r requirements.txt
+1. Install python requirements (using virtual environment preferably)
+  pip3 install -r requirements.txt
 2. Install node modules
   npm install (from UMClient directory)
-3. Run server
+3. Run server (fromm app directory)
   python3 application.py
 4. Run client (from UMClient directory)
   npm start
